@@ -1,12 +1,12 @@
-# Salut, moi c’est Jermissen 👋
+<h1 align="center"> Salut, moi c’est Jermissen 👋</h1>
 
-🎯 Objectif : **1 million d’euros avant 30 ans**. Pas une blague.
+<h3 align="center">🎯 Objectif : **1 million d’euros avant 30 ans**. Pas une blague.</h3>
 
 ---
 
 ## 🚀 À propos de moi
 
-👨‍🎓 Master 2 en cybersécurité — l’année est pliée !
+👨‍🎓 Master 2 en cybersécurité — l’année est pliée ! <br>
 💻 Développeur web fullstack spécialisé dans la création de sites modernes, fluides et animés avec :
 
 - ⚛️ **React & Next.js**
@@ -18,7 +18,7 @@ Pas encore de stage de fin d'études en poche, mais des lignes de code et des pr
 
 ---
 
-## 🌐 Me retrouver ailleurs
+## 🌐 Retrouve moi ailleurs !
 
 - <a href="www.linkedin.com/in/jermissen-nkondo-652187221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jermissen-nkondo" height="30" width="40" /></a>
 
