@@ -24,17 +24,6 @@ Pas encore de stage de fin d'études en poche, mais des lignes de code et des pr
 
 ---
 
-## 🛠️ Mes skills en une image
-
-<!-- GitHub Stats Generator -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jemsen7&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" alt="jemsen7's Streak" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jemsen7&theme=chartreuse-dark&hide_border=true" alt="jemsen7's Top Languages" />
-</div>
-
----
-
 ## 🛠️ Ce que je fabrique après avoir binge Netflix
 
 - 🔐 Des scripts chelous pour tester la sécu (avec amour et Nmap)
