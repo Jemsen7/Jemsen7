@@ -12,15 +12,9 @@
 - ⚛️ **React & Next.js**
 - 🎨 **TailwindCSS**
 - 🎞️ **Framer**
-- 🛡️ **Cybersécurité** (eh oui, faut bien protéger tout ça !)
+- 🛡️ **Cybersécurité** (et oui, faut bien protéger tout ça !)
 
 Pas encore de stage de fin d'études en poche, mais des lignes de code et des projets en pagaille. Je transforme les idées en interfaces et j’automatise le monde une app à la fois.
-
----
-
-## 🌐 Retrouve moi ailleurs !
-
-- <a href="www.linkedin.com/in/jermissen-nkondo-652187221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jermissen-nkondo" height="30" width="40" /></a>
 
 ---
 
@@ -39,6 +33,12 @@ Tu veux un site qui en jette ? Viens me parler.
 
 📧 jermissen@icloud.com   
 🌐 [Mon portfolio (bientôt en ligne... ou pas)](#)
+
+---
+
+## 🌐 Retrouve moi ailleurs !
+
+- <a href="www.linkedin.com/in/jermissen-nkondo-652187221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jermissen-nkondo" height="30" width="40" /></a>
 
 ---
 
