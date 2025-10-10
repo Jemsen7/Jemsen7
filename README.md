@@ -1,6 +1,6 @@
 <h1 align="center"> Salut, moi c’est Jermissen 👋</h1>
 
-<h3 align="center">🎯 Objectif : 1 million d’euros avant 30 ans. Pas une blague.</h3>
+<h3 align="center">🎯 Objectif : Liberté mentale, physique et financière.</h3>
 
 ---
 
