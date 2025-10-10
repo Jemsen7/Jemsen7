@@ -14,25 +14,25 @@
 - 🎞️ **Framer**
 - 🛡️ **Cybersécurité** (et oui, faut bien protéger tout ça !)
 
-Pas encore de stage de fin d'études en poche, mais des lignes de code et des projets en pagaille. Je transforme les idées en interfaces et j’automatise le monde une app à la fois.
+Stage de fin d'études en tant que RSSI + quelques lignes de code et des projets par-ci, par-là. Je transforme mes idées en interfaces et j’automatise mon monde pour ne faire parler que ma plus value.
 
 ---
 
 ## 🛠️ Ce que je fabrique après avoir binge Netflix
 
-- 🔐 Des scripts chelous pour tester la sécu (avec amour et Nmap)
-- 🌍 Créer des sites web modernes, animés, responsives, qui donnent envie... d’acheter ! 😎
-- 🧪 Des environnements un peu trop réalistes pour tester des failles « *juste pour voir* »
-- 🤝 Apprendre à mieux gérer les clients, les projets, les imprévus… et la charge mentale
+- 🔐 Des scripts pour tester la sécu (avec amour et Nmap)
+- 🌍 Création de sites web modernes, animés, responsives, qui donnent envie... d’acheter ! 😎
+- 🧪 Des environnements (un peu trop) réalistes pour tester des failles « *juste pour voir* »
+- 🤝 Apprendre à mieux gérer les clients, les projets, les imprévus… et la charge mentale.
 
-Tu veux un site qui en jette ? Viens me parler.
+Donc si tu veux un site qui en jette ? Viens me parler.
 
 ---
 
-## 📫 Me contacter
+## 📫 Pour me contacter
 
 📧 jermissen@icloud.com   
-🌐 [Mon portfolio (bientôt en ligne... ou pas)](#)
+🌐 [Mon portfolio (bientôt en ligne...)](#)
 
 ---
 
@@ -47,4 +47,4 @@ Tu veux un site qui en jette ? Viens me parler.
 
 ---
 
-> “Code dur, rêve grand, sécurise tout.” — moi-même ✨
+> “Code dur, rêve grand, sécurise tout.” — Jermissen 🙏🏾
