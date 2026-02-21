@@ -6,7 +6,7 @@
 
 ## 🚀 À propos de moi
 
-👨‍🎓 Master 2 en cybersécurité — l’année est pliée ! <br>
+👨‍🎓 Diplômé d'un Master 2 en cybersécurité ! <br>
 💻 Développeur web fullstack spécialisé dans la création de sites modernes, fluides et animés avec :
 
 - ⚛️ **React & Next.js**
@@ -21,11 +21,11 @@ Stage de fin d'études en tant que RSSI + quelques lignes de code et des projets
 ## 🛠️ Ce que je fabrique après avoir binge Netflix
 
 - 🔐 Des scripts pour tester la sécu (avec amour et Nmap)
-- 🌍 Création de sites web modernes, animés, responsives, qui donnent envie... d’acheter ! 😎
-- 🧪 Des environnements (un peu trop) réalistes pour tester des failles « *juste pour voir* »
+- 🌍 Création de sites web modernes, animés, responsives, qui donnent envie d’acheter ! 😎
+- 🧪 Des analyses de risques dans un cadre GRC.
 - 🤝 Apprendre à mieux gérer les clients, les projets, les imprévus… et la charge mentale.
 
-Donc si tu veux un site qui en jette ? Viens me parler.
+Tu veux un site qui en jette ? N'hésite pas.
 
 ---
 
